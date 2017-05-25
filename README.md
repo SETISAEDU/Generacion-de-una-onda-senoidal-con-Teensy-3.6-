@@ -30,14 +30,23 @@ El código de programación que se cargara a la tarjeta Teensy 3.6 es `Sine_wave
 
 En las siguientes figuras se muestra la señal senoidal a diferentes frecuencias:
 
+### Frecuencia a 10 Hz
+![frecuencia1](https://raw.githubusercontent.com/SETISAEDU/Generacion-de-una-onda-senoidal-con-Teensy-3.6-/master/10Hz.jpg)
+
 ### Frecuencia a 100 Hz
+![frecuencia2](https://raw.githubusercontent.com/SETISAEDU/Generacion-de-una-onda-senoidal-con-Teensy-3.6-/master/100Hz.jpg)
 
 ### Frecuencia a 200 Hz
+![frecuencia3](https://raw.githubusercontent.com/SETISAEDU/Generacion-de-una-onda-senoidal-con-Teensy-3.6-/master/200Hz.jpg)
 
 ### Frecuencia a 300 Hz
+![frecuencia4](https://raw.githubusercontent.com/SETISAEDU/Generacion-de-una-onda-senoidal-con-Teensy-3.6-/master/300Hz.jpg)
 
 ### Frecuencia a 400 Hz
+![frecuencia5](https://raw.githubusercontent.com/SETISAEDU/Generacion-de-una-onda-senoidal-con-Teensy-3.6-/master/400Hz.jpg)
 
 ### Frecuencia a 500 Hz
+![frecuencia6](https://raw.githubusercontent.com/SETISAEDU/Generacion-de-una-onda-senoidal-con-Teensy-3.6-/master/500Hz.jpg)
 
 ### Frecuencia a 1 KHz
+![frecuencia7](https://raw.githubusercontent.com/SETISAEDU/Generacion-de-una-onda-senoidal-con-Teensy-3.6-/master/1KHz.jpg)
