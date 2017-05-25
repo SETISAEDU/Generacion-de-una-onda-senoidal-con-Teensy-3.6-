@@ -14,7 +14,7 @@ void setup() {
 void loop() {
   
   
-  float val = sin(t) * 2048.0 + 2048.0;  //La funcion seno de cada muestra obtenida aplicando un escalamiento al valor obtenido
+  float val = sin(t) * 2048.0 + 2048.0;  //La funcion seno de cada muestra obtenida aplicando un escalamiento a un valor entero
   analogWrite(A22, (int)val);            // Imprime el resultado obtenido de la muestra en el pin analógico
   t = t + t_variant;                     // Siguiente muestra
   if (t > twopi)                         //Si se cumple el periodo, se resetea la variable
