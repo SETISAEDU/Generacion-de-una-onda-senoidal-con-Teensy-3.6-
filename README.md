@@ -9,7 +9,7 @@ Las salidas analógicas son señales de voltaje generadas por el microcontrolado
 Contienen un gran numero de funciones matemáticas utiles para la manipulación de numeros de punto flotante. 
 A continuación se muestra una lista de las funciones mas comunes:
 
-``cos dobles (doble __x) // devuelve el coseno de x
+ `cos dobles (doble __x) // devuelve el coseno de x
   FABS dobles (doble __x) // valor absoluto de un flotador
   doble fmod (doble __x, doble __S) // punto modulo flotante
   modf doble (doble __value, doble * __ FPR) // rompe el valor del argumento en partes integrales y fraccionarios
@@ -22,7 +22,7 @@ A continuación se muestra una lista de las funciones mas comunes:
   doble log (doble __x) // logaritmo natural de x
   log10 dobles (doble __x) // logaritmo de x a la base 10.
   doble pow (doble __x, doble __S) // x a potencia de y
-  cuadrado doble (doble __x) // cuadrada de x>``
+  cuadrado doble (doble __x) // cuadrada de x>`
 
 El código de programación que se cargara a la tarjeta Teensy 3.6 es `Sine_wave.ino` 
 
